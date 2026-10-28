@@ -1,4 +1,4 @@
-<!-- Daniel Adu Worae | @WadElla — Aurora edition
+<!-- Daniel Adu Worae | @WadElla — Midnight Cyber edition
      Original visuals in /assets. Public work only; private initiatives are not named.
      For your profile, create a public repo named WadElla/WadElla. -->
 
@@ -6,14 +6,14 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/aurora-header-dark.svg" /><img src="./assets/aurora-header.svg" width="100%" alt="Daniel Adu Worae — Ph.D. Candidate at the University of Notre Dame" /></picture>
 
-<a href="https://wadman.netlify.app/"><img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=650&amp;size=23&amp;duration=2800&amp;pause=1100&amp;color=D94AAE&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=780&amp;height=50&amp;lines=AI%20for%20Cybersecurity%20%26%20Intelligent%20Systems;IoT%20Security%20%26%20Network%20Privacy;Trustworthy%20AI%2C%20RAG%20%26%20Agentic%20Systems;Curious%20About%20Packets.%20Serious%20About%20Impact." alt="AI for cybersecurity, IoT security, privacy and trustworthy intelligent systems" /></a>
+<a href="https://wadman.netlify.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=650&amp;size=23&amp;duration=2800&amp;pause=1100&amp;color=79D0EC&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=780&amp;height=50&amp;lines=AI%20for%20Cybersecurity%20%26%20Intelligent%20Systems;IoT%20Security%20%26%20Network%20Privacy;Trustworthy%20AI%2C%20RAG%20%26%20Agentic%20Systems;Curious%20About%20Packets.%20Serious%20About%20Impact." /><img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=650&amp;size=23&amp;duration=2800&amp;pause=1100&amp;color=176FA8&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=780&amp;height=50&amp;lines=AI%20for%20Cybersecurity%20%26%20Intelligent%20Systems;IoT%20Security%20%26%20Network%20Privacy;Trustworthy%20AI%2C%20RAG%20%26%20Agentic%20Systems;Curious%20About%20Packets.%20Serious%20About%20Impact." alt="AI for cybersecurity, IoT security, privacy and trustworthy intelligent systems" /></picture></a>
 
 <br />
 
-<img src="https://img.shields.io/badge/AI_for_Security-8B5CF6?style=for-the-badge&labelColor=8B5CF6&logoColor=white" alt="AI for Security" />
-<img src="https://img.shields.io/badge/IoT_Security-E84D9A?style=for-the-badge&labelColor=E84D9A&logoColor=white" alt="IoT Security" />
-<img src="https://img.shields.io/badge/Network_Privacy-17B6BA?style=for-the-badge&labelColor=17B6BA&logoColor=white" alt="Network Privacy" />
-<img src="https://img.shields.io/badge/Intelligent_Systems-FF9665?style=for-the-badge&labelColor=FF9665&logoColor=white" alt="Intelligent Systems" />
+<img src="https://img.shields.io/badge/AI_for_Security-194F7A?style=for-the-badge&labelColor=194F7A&logoColor=white" alt="AI for Security" />
+<img src="https://img.shields.io/badge/IoT_Security-116D8C?style=for-the-badge&labelColor=116D8C&logoColor=white" alt="IoT Security" />
+<img src="https://img.shields.io/badge/Network_Privacy-107B76?style=for-the-badge&labelColor=107B76&logoColor=white" alt="Network Privacy" />
+<img src="https://img.shields.io/badge/Intelligent_Systems-8F6B24?style=for-the-badge&labelColor=8F6B24&logoColor=white" alt="Intelligent Systems" />
 
 </div>
 
@@ -55,10 +55,10 @@ Proud to be part of the **University of Notre Dame** community. **Go Irish! ☘�
 
 ## 💌 Let's Connect
 
-<a href="https://wadman.netlify.app/"><img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" /></a>
+<a href="https://wadman.netlify.app/"><img src="https://img.shields.io/badge/Website-194F7A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" /></a>
 <a href="https://www.linkedin.com/in/daniel-adu-worae/"><img src="https://img.shields.io/badge/LinkedIn-3677E0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://orcid.org/0000-0002-6774-2725"><img src="https://img.shields.io/badge/ORCID-75B843?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-<a href="mailto:dworae@nd.edu"><img src="https://img.shields.io/badge/Email-F15BAA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:dworae@nd.edu"><img src="https://img.shields.io/badge/Email-116D8C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br />
 

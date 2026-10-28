@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="136" viewBox="0 0 1100 136" role="img" aria-label="Stay curious. Build responsibly. Keep exploring.">
-<defs><linearGradient id="g"><stop stop-color="#4DC3D1"/><stop offset=".34" stop-color="#9964F5"/><stop offset=".67" stop-color="#F25BAC"/><stop offset="1" stop-color="#FF9974"/></linearGradient><clipPath id="clip"><rect width="1100" height="136" rx="20"/></clipPath></defs>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#116B83"/><stop offset=".33" stop-color="#14557A"/><stop offset=".67" stop-color="#0D345A"/><stop offset="1" stop-color="#081C35"/></linearGradient><clipPath id="clip"><rect width="1100" height="136" rx="20"/></clipPath></defs>
 <g clip-path="url(#clip)"><rect width="1100" height="136" fill="url(#g)"/><path d="M0 0V22Q148 56 327 27T701 21 1100 33V0Z" fill="#ffffff" opacity=".95"/>
-<g fill="none" stroke="#fff" stroke-opacity=".35"><path d="M50 91h140m720 0h150" stroke-width="2"/><circle cx="200" cy="91" r="3"/><circle cx="900" cy="91" r="3"/></g>
-<text x="550" y="91" font-size="25" font-weight="700" font-family="Arial,Helvetica,sans-serif" fill="#fff" text-anchor="middle">Stay curious. Build responsibly. Keep exploring. ✦</text></g></svg>
+<g fill="none" stroke="#F3C65D" stroke-opacity=".75"><path d="M50 91h140m720 0h150" stroke-width="2"/><circle cx="200" cy="91" r="3" fill="#F3C65D"/><circle cx="900" cy="91" r="3" fill="#F3C65D"/></g>
+<text x="550" y="91" font-size="25" font-weight="700" font-family="Arial,Helvetica,sans-serif" fill="#fff" text-anchor="middle">Stay curious. Build responsibly. Keep exploring.</text><path d="M880 76l2.5 7.5L890 86l-7.5 2.5-2.5 7.5-2.5-7.5-7.5-2.5 7.5-2.5Z" fill="#F3C65D"/></g></svg>
