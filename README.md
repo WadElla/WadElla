@@ -47,7 +47,7 @@
 
 🧠 **[NEXUS-MI](https://github.com/WadElla/NEXUS-MI)** — Communication-aware federated personalization for brain–computer interfaces.
 
-<sub>Also interested in cryptography, blockchain, secure distributed systems, and trustworthy machine learning.</sub>
+<sub>🔐 <strong>Additional Research Interests:</strong> Cryptography · Blockchain</sub>
 
 ## ☘️ Proudly Fighting Irish
 
