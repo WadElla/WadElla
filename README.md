@@ -51,7 +51,7 @@
 
 ## ☘️ Proudly Fighting Irish
 
-Researching and building at the **University of Notre Dame** — connecting **AI, cybersecurity, network privacy, and intelligent systems**.
+Proud to be part of the **University of Notre Dame** community. **Go Irish! ☘️**
 
 ## 💌 Let's Connect
 
