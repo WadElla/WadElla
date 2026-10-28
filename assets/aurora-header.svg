@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="272" viewBox="0 0 1100 272" role="img" aria-label="Daniel Adu Worae, PhD Candidate at the University of Notre Dame">
+<defs>
+ <linearGradient id="aurora" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#FF827B"/><stop offset=".25" stop-color="#F656AB"/><stop offset=".63" stop-color="#9956E8"/><stop offset="1" stop-color="#40BBDC"/></linearGradient>
+ <radialGradient id="lit"><stop offset="0" stop-color="#ffffff" stop-opacity=".48"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+ <filter id="shadow" x="-15%" y="-30%" width="130%" height="170%"><feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#532d7e" flood-opacity=".28"/></filter>
+ <clipPath id="cl"><rect width="1100" height="272" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#cl)">
+<rect width="1100" height="272" fill="url(#aurora)"/>
+<circle cx="170" cy="20" r="195" fill="url(#lit)"/>
+<circle cx="945" cy="130" r="225" fill="url(#lit)" opacity=".8"/>
+<path d="M-5 201C132 140 220 220 361 190S613 163 755 190 997 230 1110 162" fill="none" stroke="#ffffff" stroke-opacity=".13" stroke-width="30"/>
+<path d="M-5 98C124 36 204 155 356 105S566 45 745 102 968 135 1110 61" fill="none" stroke="#ffffff" stroke-opacity=".13" stroke-width="2"/>
+<g fill="none" stroke="#fff" stroke-opacity=".33" stroke-width="1.6">
+<circle cx="942" cy="116" r="68"/><circle cx="942" cy="116" r="111" stroke-dasharray="5 10"/>
+<path d="M882 90l45-26 67 44-20 63-70-13Z"/>
+<path d="M882 90l60 26 52-8M942 116l-38 42M942 116l32 55"/>
+</g>
+<g fill="#fff"><circle cx="882" cy="90" r="5"/><circle cx="927" cy="64" r="6"/><circle cx="994" cy="108" r="6"/><circle cx="974" cy="171" r="5"/><circle cx="904" cy="158" r="6"/><circle cx="942" cy="116" r="9"/>
+<circle cx="113" cy="108" r="3" opacity=".8"/><circle cx="136" cy="77" r="2" opacity=".6"/><circle cx="1080" cy="57" r="3" opacity=".8"/><circle cx="87" cy="200" r="3" opacity=".9"/></g>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle" fill="white">
+ <text x="515" y="51" font-weight="700" font-size="15" letter-spacing="5" opacity=".96">HELLO, I'M</text>
+ <text x="515" y="124" font-weight="800" font-size="63" letter-spacing=".1" filter="url(#shadow)">Daniel Adu Worae</text>
+ <text x="515" y="158" font-weight="600" font-size="20">Ph.D. Candidate · University of Notre Dame</text>
+ <text x="515" y="189" font-weight="500" font-size="15" letter-spacing="2" opacity=".96">AI FOR SECURITY  ·  INTELLIGENT SYSTEMS  ·  PRIVACY</text>
+</g>
+<path d="M0 223Q145 268 306 241T589 244 852 239 1100 224V272H0Z" fill="#fff" opacity=".20"/>
+<path d="M0 246Q193 220 377 250T752 250 1100 235V272H0Z" fill="#fff" opacity=".92"/>
+</g>
+</svg>
